@@ -20,8 +20,10 @@ Kami membuat aplikasi ini tentunya memiliki tujuan untuk apa kami membuat aplika
 6. Merealisasikan system E-KTM dalam bentuk simulasi dan prototype baik perangkat lunak maupun perangkat keras.
 
 ## Desain UI Aplikasi
-| <img src="img/ui/halaman-login.png" style="width: 300px; height: 649px;" /> | <img src="img/ui/halaman-beranda.png" style="width: 300px; height: 649px;" /> | <img src="img/ui/halaman-berita.png" style="width: 300px; height: 649px;" /> |
+| <img src="img/ui/halaman-login.png" alt="Login Page" style="width: 300px; height: 649px;" /> | <img src="img/ui/halaman-beranda.png" alt="Home Page" style="width: 300px; height: 649px;" /> | <img src="img/ui/halaman-berita.png" alt="News Page" style="width: 300px; height: 649px;" /> |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| <img src="img/ui/halaman-agenda.png" style="width: 300px; height: 649px;" /> | <img src="img/ui/halaman-profil.png" style="width: 300px; height: 649px;" /> | <img src="img/ui/halaman-scan.png" style="width: 300px; height: 649px;" /> |
+| Login Page                 | Home Page                 | News Page                 |
+| <img src="img/ui/halaman-agenda.png" alt="Agenda Page" style="width: 300px; height: 649px;" /> | <img src="img/ui/halaman-profil.png" alt="Profile Page" style="width: 300px; height: 649px;" /> | <img src="img/ui/halaman-scan.png" alt="Scan Page" style="width: 300px; height: 649px;" /> |
+| Agenda Page                 | Profile Page                 | Scan Page                 |
 
 ## Algoritma Aplikasi
