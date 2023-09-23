@@ -5,6 +5,7 @@ Mobile App FT Community with E-KTM adalah aplikasi mobile yang dibuat dan dikemb
 - [Latar Belakang](#latar-belakang)
 - [Tujuan](#tujuan)
 - [Desain Aplikasi](#desain-ui-aplikasi)
+- [Cara Kerja Aplikasi](#cara-kerja-aplikasi)
 - [Algoritma Aplikasi](#algoritma-aplikasi)
 
 ## Latar Belakang
@@ -27,5 +28,13 @@ Kami membuat aplikasi ini tentunya memiliki tujuan untuk apa kami membuat aplika
 | News Page                 |  Agenda Page              |
 | ![Profile Page](img/ui/halaman-profil.png) | ![Scan Page](img/ui/halaman-scan.png) |
 | Profile Page              | Scan Page                 |
+
+## Cara Kerja Aplikasi
+1. E-KTM (Kartu Tanda Mahasiswa Elektronik)
+   - Pengguna membuka aplikasi
+   - Pengguna login menggunakan akun yang sudah dibuatkan Universitas
+   - Pengguna masuk ke tab fitur E-KTM
+   - Pengguna dapat memanfaatkan fitur E-KTM untuk mengakses fasilitas kampus, peminjaman buku perpustakaan, dan tugas-tugas lain yang memerlukan identifikasi sebagai mahasiswa.
+2. Agenda
 
 ## Algoritma Aplikasi
