@@ -20,7 +20,7 @@ Kami membuat aplikasi ini tentunya memiliki tujuan untuk apa kami membuat aplika
 6. Merealisasikan system E-KTM dalam bentuk simulasi dan prototype baik perangkat lunak maupun perangkat keras.
 
 ## Desain UI Aplikasi
-| <img src="img/ui/halaman-login.png" style="box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);" /> | ![Home Page](img/ui/halaman-beranda.png) | ![News Page](img/ui/halaman-berita.png) |
+| <img src="img/ui/halaman-login.png" style="box-shadow: 5px 5px 10px black;" /> | ![Home Page](img/ui/halaman-beranda.png) | ![News Page](img/ui/halaman-berita.png) |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 | ![Agenda Page](img/ui/halaman-agenda.png) | ![Profile Page](img/ui/halaman-profil.png) | ![Scan Page](img/ui/halaman-scan.png) |
 
