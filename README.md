@@ -9,3 +9,7 @@ Mobile App FT Community with E-KTM adalah aplikasi mobile yang dibuat dan dikemb
 Dalam era teknologi informasi yang terus berkembang pesat, penggunaan aplikasi mobile dalam berbagai aspek kehidupan telah menjadi suatu kebutuhan yang tidak terhindarkan. Terutama di lingkungan pendidikan, aplikasi mobile telah membuka peluang baru untuk memberikan layanan yang lebih efisien, informatif, dan terhubung secara real-time kepada mahasiswa Universitas Sultan Ageng Tirtayasa.
 
 ## Tujuan
+
+## Desain UI Aplikasi
+| ![Gambar 1](gambar1.png) | ![Gambar 2](gambar2.png) | ![Gambar 3](gambar3.png) |
+|:-------------------------:|:-------------------------:|:-------------------------:|
